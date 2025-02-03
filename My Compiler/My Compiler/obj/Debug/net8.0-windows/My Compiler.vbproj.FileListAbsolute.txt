@@ -1,0 +1,17 @@
+C:\Users\bingw\source\repos\My Compiler\My Compiler\obj\Debug\net8.0-windows\My_Compiler.frmMyCompiler.resources
+C:\Users\bingw\source\repos\My Compiler\My Compiler\obj\Debug\net8.0-windows\My Compiler.vbproj.GenerateResource.cache
+C:\Users\bingw\source\repos\My Compiler\My Compiler\obj\Debug\net8.0-windows\My Compiler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bingw\source\repos\My Compiler\My Compiler\obj\Debug\net8.0-windows\My Compiler.AssemblyInfoInputs.cache
+C:\Users\bingw\source\repos\My Compiler\My Compiler\obj\Debug\net8.0-windows\My Compiler.AssemblyInfo.vb
+C:\Users\bingw\source\repos\My Compiler\My Compiler\obj\Debug\net8.0-windows\My Compiler.vbproj.CoreCompileInputs.cache
+C:\Users\bingw\source\repos\My Compiler\My Compiler\obj\Debug\net8.0-windows\My Compiler.sourcelink.json
+C:\Users\bingw\source\repos\My Compiler\My Compiler\bin\Debug\net8.0-windows\My Compiler.exe
+C:\Users\bingw\source\repos\My Compiler\My Compiler\bin\Debug\net8.0-windows\My Compiler.deps.json
+C:\Users\bingw\source\repos\My Compiler\My Compiler\bin\Debug\net8.0-windows\My Compiler.runtimeconfig.json
+C:\Users\bingw\source\repos\My Compiler\My Compiler\bin\Debug\net8.0-windows\My Compiler.dll
+C:\Users\bingw\source\repos\My Compiler\My Compiler\bin\Debug\net8.0-windows\My Compiler.pdb
+C:\Users\bingw\source\repos\My Compiler\My Compiler\obj\Debug\net8.0-windows\My Compiler.dll
+C:\Users\bingw\source\repos\My Compiler\My Compiler\obj\Debug\net8.0-windows\refint\My Compiler.dll
+C:\Users\bingw\source\repos\My Compiler\My Compiler\obj\Debug\net8.0-windows\My Compiler.pdb
+C:\Users\bingw\source\repos\My Compiler\My Compiler\obj\Debug\net8.0-windows\My Compiler.genruntimeconfig.cache
+C:\Users\bingw\source\repos\My Compiler\My Compiler\obj\Debug\net8.0-windows\ref\My Compiler.dll
